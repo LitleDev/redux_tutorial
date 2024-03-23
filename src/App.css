@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+/* manual style  */
+
+.cart-wrapper {
+  height: 400px;
+  width: 200px;
+  background-color: palegreen;
+  padding-top: 20px;
+}
+
+.image-wrapper {
+  height: 279px;
+  width: 170px;
+  background: beige;
+  margin: 10px 10px 10px 10px;
+  border-top: 20px;
+}
+
+
+
+
+
+
